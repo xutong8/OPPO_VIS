@@ -151,7 +151,7 @@ export default {
   border-radius: 4px;
   padding: 8px;
   background-color: #fff;
-  height: 489px;
+  height: 498px;
 }
 
 .select {
